@@ -1,0 +1,33 @@
+﻿@using ClientMVC.Areas.Admin.ViewModel
+@model List<DepartmentItemVM>
+
+<div class="col-lg-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Department Table</h4>
+          
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>settings </th> 
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach(DepartmentItemVM department in Model)
+                        {
+                            <tr>
+                                <td>@department.Name</td>
+                               
+                                <td><label class="badge badge-danger">Pending</label></td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,62 @@
+﻿@using ClientMVC.Areas.Admin.ViewModel
+
+@model List<DoctorItemVM>
+<div class="col-lg-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Doctor Table</h4>
+         
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>
+
+                                Name
+                             
+                            </th>
+                            <th>
+                                
+                                Surname
+
+                            </th>
+                            <th>
+
+                                Image
+
+                            </th>
+                            <th>
+
+                                DepartmentName
+
+                            </th>
+                            <th>
+                                
+                                Setting
+                                
+                            </th>
+                            <th>
+                                
+                                Status
+                                
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach(DoctorItemVM doctor in Model)
+                        {
+                            <tr>
+                                <td>@doctor.Name</td>
+                                <td>@doctor.Surname</td>
+                                <td>@doctor.Image</td>
+                                <td>@doctor.DepartmentName</td>
+                                <td><label class="badge badge-danger">Pending</label></td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

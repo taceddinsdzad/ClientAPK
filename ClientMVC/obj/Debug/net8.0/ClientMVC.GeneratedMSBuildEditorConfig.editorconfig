@@ -9,27 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClientMVC
 build_property.RootNamespace = ClientMVC
-build_property.ProjectDir = C:\Users\BLACK\Desktop\ClientMvc\ClientMVC\
+build_property.ProjectDir = C:\Users\II novbe\Desktop\ClientAPK\ClientMVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\BLACK\Desktop\ClientMvc\ClientMVC
+build_property.MSBuildProjectDirectory = C:\Users\II novbe\Desktop\ClientAPK\ClientMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/BLACK/Desktop/ClientMvc/ClientMVC/Views/Home/Index.cshtml]
+[C:/Users/II novbe/Desktop/ClientAPK/ClientMVC/Areas/Admin/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/ClientAPK/ClientMVC/Areas/Admin/Views/Doctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/ClientAPK/ClientMVC/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/ClientAPK/ClientMVC/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/ClientAPK/ClientMVC/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/ClientAPK/ClientMVC/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/ClientAPK/ClientMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BLACK/Desktop/ClientMvc/ClientMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/II novbe/Desktop/ClientAPK/ClientMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BLACK/Desktop/ClientMvc/ClientMVC/Views/_ViewImports.cshtml]
+[C:/Users/II novbe/Desktop/ClientAPK/ClientMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BLACK/Desktop/ClientMvc/ClientMVC/Views/_ViewStart.cshtml]
+[C:/Users/II novbe/Desktop/ClientAPK/ClientMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
